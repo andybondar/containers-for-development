@@ -1,0 +1,4 @@
+project_name = "devspace-lab-0002"
+services = [
+  "compute.googleapis.com"
+]
