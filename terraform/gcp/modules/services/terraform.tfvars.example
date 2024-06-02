@@ -1,4 +1,4 @@
-project_name = "devspace-lab-0002"
+project_name = "devspace-lab-0001"
 services = [
   "compute.googleapis.com"
 ]
